@@ -1,4 +1,4 @@
-package com.consol.sampleapp;
+package main.com.consol.sampleapp;
 
 import java.io.IOException;
 import java.io.PrintWriter;
